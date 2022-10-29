@@ -1,0 +1,13 @@
+.data{
+    background-color: hsla(180, 100%, 97%, 0.514);
+    border: 3px solid black;
+    color: black;
+}
+.green{
+    color: white;
+    background-color: hsla(128, 100%, 39%, 0.514);
+}
+.red{
+    color: white;
+    background-color: hsla(0, 100%, 39%, 0.514);
+}

@@ -1,0 +1,52 @@
+.loginform{
+    background-color: rgba(0,0,0,0.3);
+    width: 40%;
+    padding: 4em 3em;
+    margin: 0 auto;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .loginform h1{
+    font-size: 3em;
+  }
+  .loginform p{
+    font-size: 1em;
+  }
+  .big {
+    text-align: center;
+  }
+  .big p{
+    font-size: 1em;
+  }
+  .big>p{
+    font-size: 4em;
+  }
+  .big a{
+    color: wheat;
+  }
+  
+  .loginform button{
+    position: relative;
+    color: rgb(255, 255, 255);
+    background-color: crimson;
+    width: 10rem;
+    height: 4rem;
+    border-radius: 1rem;
+    line-height: 3rem;
+  }
+  
+  body{
+    background: url(./../../public/images/anirudh-djo3iNJpaOE-unsplash\ \(1\).jpg);
+    color: white;
+    font-family: sans-serif;
+  }
+  
+  .loginform input{
+    border-radius: 2em;
+    width: 90%;
+    height: 60px;
+    margin: 10px;
+  }
